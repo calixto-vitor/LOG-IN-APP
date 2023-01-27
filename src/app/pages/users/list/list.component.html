@@ -1,0 +1,21 @@
+<h2 class="p-3">Users</h2>
+
+<div class="table-responsive">
+  <table class="table text-bg-dark">
+    <thead class="text-center">
+      <th>ID</th>
+      <th>Username</th>
+      <th>E-mail</th>
+      <th>Password</th>
+    </thead>
+
+    <tbody class="text-center" *ngFor="let dateUsers of Users">
+      <tr>
+        <td scope="row">{{ dateUsers.id }}</td>
+        <td>{{ dateUsers.name }}</td>
+        <td>{{ dateUsers.email }}</td>
+        <td>{{ dateUsers.password }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
