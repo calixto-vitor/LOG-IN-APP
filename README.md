@@ -1,4 +1,13 @@
-# Frontend
+# LOG-IN APP
+
+![LOG-IN APP gif](/img/LOG-INAPP.gif)
+
+![LOG-IN APP png](/img/LOG-INAPP.png)
+
+[USERNAME/PASSWORD]
+[admlog/admlog]
+[senior/senior]
+[junior/123456]
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.2.
 
