@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "admlog",
+    "email": "adm@login.app",
+    "password": "admlog"
+  },
+  {
+    "id": 2,
+    "name": "senior",
+    "email": "senior@login.app",
+    "password": "senior"
+  },
+  {
+    "id": 3,
+    "name": "junior",
+    "email": "junior@login.app",
+    "password": "123456"
+  }
+]
